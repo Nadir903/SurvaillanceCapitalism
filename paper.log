@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.15)  15 JUL 2024 00:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.15)  15 JUL 2024 01:19
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -391,14 +391,24 @@ Package hyperref Info: Link coloring OFF on input line 29.
 \@outlinefile=\write3
 \openout3 = `paper.out'.
 
- (./abstract.tex) (./introduction.tex)
-(./section1.tex
-<figure1.png, id=26, 497.86pt x 580.1675pt>
+ (./abstract.tex) (./introduction.tex) [1{/usr/local/texlive/2024/texmf-var/fon
+ts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/d
+vips/base/8r.enc}
+
+
+] (./section1.tex
+<figure1.png, id=83, 497.86pt x 580.1675pt>
 File: figure1.png Graphic file (type png)
 <use figure1.png>
 Package pdftex.def Info: figure1.png  used on input line 12.
 (pdftex.def)             Requested size: 49.78891pt x 58.02014pt.
-) (./conclusion.tex) (./paper.bbl)
+) (./cases.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
+.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [2 <./figure1.png>]) (./ethical.tex) (./conclusion.tex) [3] (./paper.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -410,36 +420,32 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the US letter (8.5in X 11in) paper size.
 
-[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
-ocal/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
+[4
 
-
-
- <./figure1.png>]
-(./paper.aux)
+] (./paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 083818E0C56C3DA1EFE54B974383AEA4;544.
+(rerunfilecheck)             Checksum: AD82A6E4003BC233DA531E8F46C35E3F;2850.
  ) 
 Here is how much of TeX's memory you used:
- 9774 strings out of 474116
- 152498 string characters out of 5743682
- 1936187 words of memory out of 5000000
- 32008 multiletter control sequences out of 15000+600000
- 593932 words of font info for 97 fonts, out of 8000000 for 9000
+ 9855 strings out of 474116
+ 153906 string characters out of 5743682
+ 1952187 words of memory out of 5000000
+ 32065 multiletter control sequences out of 15000+600000
+ 594246 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,9n,82p,274b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 80i,9n,82p,414b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texli
 ve/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/te
 xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (1 page, 66794 bytes).
+Output written on paper.pdf (4 pages, 89932 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
+ 142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
