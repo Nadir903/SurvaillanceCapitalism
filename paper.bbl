@@ -21,6 +21,30 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{Cadwalladr2018_CambridgeAnalytica}
+\BIBentryALTinterwordspacing
+C.~Cadwalladr and E.~Graham-Harrison, ``Revealed: 50 million facebook profiles
+  harvested for cambridge analytica in major data breach,'' \emph{The
+  Guardian}, March 2018. [Online]. Available:
+  \url{https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Rosenberg2018_ExploitedData}
+\BIBentryALTinterwordspacing
+M.~Rosenberg, N.~Confessore, and C.~Cadwalladr, ``How trump consultants
+  exploited the facebook data of millions,'' \emph{The New York Times}, March
+  2018. [Online]. Available:
+  \url{https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Google2020_incognitoData}
+\BIBentryALTinterwordspacing
+N.~Autor, ``Google settles 5 billion dollar privacy lawsuit over tracking users
+  in incognito mode,'' \emph{The Hacker News}, January 2024. [Online].
+  Available:
+  \url{https://www.thehackernews.com/2024/01/google-settles-5-billion-privacy.html}
+\BIBentrySTDinterwordspacing
+
 \bibitem{Pulay1980_Mixing}
 P.~Pulay, ``Convergence acceleration of iterative sequences. the case of {SCF}
   iteration,'' \emph{Chemical Physics Letters}, vol.~73, no.~2, pp. 393--398,
