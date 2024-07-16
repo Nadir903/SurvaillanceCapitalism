@@ -45,14 +45,12 @@ N.~Autor, ``Google settles 5 billion dollar privacy lawsuit over tracking users
   \url{https://www.thehackernews.com/2024/01/google-settles-5-billion-privacy.html}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Pulay1980_Mixing}
-P.~Pulay, ``Convergence acceleration of iterative sequences. the case of {SCF}
-  iteration,'' \emph{Chemical Physics Letters}, vol.~73, no.~2, pp. 393--398,
-  1980.
-
-\bibitem{Lindner2015_MNQN}
-F.~Lindner, M.~Mehl, K.~Scheufele, and B.~Uekermann, ``A comparison of various
-  quasi-{N}ewton schemes for partitioned fluid-structure interaction,'' in
-  \emph{ECCOMAS Coupled Problems}, Venice, 2015.
+\bibitem{Benner2016_AppleFightsOrder}
+\BIBentryALTinterwordspacing
+K.~Benner and E.~Lichtblau, ``Apple fights order to unlock san bernardino
+  gunmans iphone,'' \emph{The New York Times}, February 2016. [Online].
+  Available:
+  \url{https://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
