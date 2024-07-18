@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.15)  17 JUL 2024 01:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.15)  18 JUL 2024 22:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -397,8 +397,8 @@ ips/base/8r.enc}
 
 
 ]) (./ScenariosAndDilemmas.tex)
-(./CaseStudies.tex [2] [3]) (./EthicalFramework.tex) (./Conclusion.tex [4])
-(./paper.bbl)
+(./CaseStudies.tex [2] [3]) (./EthicalFramework.tex [4]) (./Conclusion.tex)
+(./paper.bbl [5])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -410,7 +410,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the US letter (8.5in X 11in) paper size.
 
-[5
+[6
 
 ] (./paper.aux)
  ***********
@@ -418,24 +418,25 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: CB0C217B58840DD8FFA03A008F8C3905;2810.
+(rerunfilecheck)             Checksum: 88B9DD8FC7C2C9FB33F9BD524BBA94EF;2619.
  ) 
 Here is how much of TeX's memory you used:
- 9819 strings out of 474116
- 153554 string characters out of 5743682
+ 9823 strings out of 474116
+ 153668 string characters out of 5743682
  1950187 words of memory out of 5000000
- 32030 multiletter control sequences out of 15000+600000
- 593315 words of font info for 96 fonts, out of 8000000 for 9000
+ 32031 multiletter control sequences out of 15000+600000
+ 593542 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,9n,82p,357b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texli
-ve/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/te
-xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (5 pages, 79981 bytes).
+ 80i,9n,82p,357b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loca
+l/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive
+/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texm
+f-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper.pdf (6 pages, 94221 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

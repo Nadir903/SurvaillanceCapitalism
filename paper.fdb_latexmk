@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex paper"] 1721171260.83458 "paper.aux" "paper.bbl" "paper" 1721171261.70009 0
+["bibtex paper"] 1721325755.71689 "paper.aux" "paper.bbl" "paper" 1721333835.67046 0
   "./IEEEabrv.bib" 1719502300.87062 17781 22a7187dd8f9c9fdd01e2bc45cbcedf0 ""
   "./IEEEtran.bst" 1719502300.87136 59506 016987d9be15acf51cdd7252d40ecec2 ""
-  "./references.bib" 1721170610.11446 2076 40c02f7023dd05222af8d2d6d6555fa4 ""
-  "paper.aux" 1721171261.41238 4111 af3d33a24fc5295b38c36fb276cc66da "pdflatex"
+  "./references.bib" 1721325752.75372 2740 8b93a65915991f98398b80f5c6982e55 ""
+  "paper.aux" 1721333835.3525 4099 52869beecdea05df85e0e10deba148ba "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1721171260.93035 "paper.tex" "paper.pdf" "paper" 1721171261.70022 0
+["pdflatex"] 1721333834.84279 "paper.tex" "paper.pdf" "paper" 1721333835.67058 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -28,6 +28,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb" 1136849748 44656 0cbca70e0534538582128f6b54593cca ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1136849748 46026 6dab18b61c907687b520c72847215a68 ""
@@ -88,16 +89,16 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720995462 8221411 e9af71b4af154e80d16b78d2a2258e0a ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "Abstract.tex" 1721040645.66256 1160 7d64817a2b24c320f58f9c9ebf0a4d7b ""
-  "CaseStudies.tex" 1721171257.55285 8484 34c91272e37f76324edcd8683ae37fbc ""
+  "CaseStudies.tex" 1721333832.477 8482 38f51e6c02880e9856ae5684e96d3267 ""
   "Conclusion.tex" 1721086734.87814 3807 ce047595bd67d7508f67d1d7d571c9af ""
-  "EthicalFramework.tex" 1721167777.03087 3216 a51805e0dabd21c1ef25b3e54d68a1b6 ""
+  "EthicalFramework.tex" 1721333832.47536 7125 26dafd80c2a01d5bf0f8e780c294cb86 ""
   "IEEEtran-modified.cls" 1719502300.87114 197424 8ebd5a436140d3b4269aa6fc70583adb ""
-  "Introduction.tex" 1721072482.55967 5038 2051c0f621ff7bc1878c3f59bc92c6b8 ""
-  "ScenariosAndDilemmas.tex" 1721151622.77016 4961 236279d0fc80cd41a924cf6a45f698ec ""
+  "Introduction.tex" 1721333832.47308 5045 706b097fc6a75099e9aaa3a24c5d8487 ""
+  "ScenariosAndDilemmas.tex" 1721333002.62383 4968 a4ea75f78e32142f6b34cd7cebbbadf7 ""
   "paper-layout.tex" 1719502300.87234 12749 607dfc25a1210553a81dc037e23583d6 ""
-  "paper.aux" 1721171261.41238 4111 af3d33a24fc5295b38c36fb276cc66da "pdflatex"
-  "paper.bbl" 1721171260.92845 2346 462fa50edbe8496c154e7942cd088b70 "bibtex paper"
-  "paper.out" 1721171261.41328 2810 cb0c217b58840dd8ffa03a008f8c3905 "pdflatex"
+  "paper.aux" 1721333835.3525 4099 52869beecdea05df85e0e10deba148ba "pdflatex"
+  "paper.bbl" 1721325755.82055 2867 257b28493fec9f08da6d8572bbf4ad2b "bibtex paper"
+  "paper.out" 1721333835.35301 2619 88b9dd8fc7c2c9fb33f9bd524bba94ef "pdflatex"
   "paper.tex" 1721170831.40363 4655 0b026e733291289b5cd5d527cbbd40b0 ""
   (generated)
   "paper.aux"

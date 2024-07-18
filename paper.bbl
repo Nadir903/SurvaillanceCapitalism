@@ -53,4 +53,17 @@ K.~Benner and E.~Lichtblau, ``Apple fights order to unlock san bernardino
   \url{https://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Kant1998_Groundwork}
+I.~Kant, \emph{Groundwork of the Metaphysics of Morals}, M.~Gregor, Ed.\hskip
+  1em plus 0.5em minus 0.4em\relax Cambridge, UK: Cambridge University Press,
+  1998.
+
+\bibitem{Mill1863_Utilitarianism}
+J.~S. Mill, \emph{Utilitarianism}.\hskip 1em plus 0.5em minus 0.4em\relax
+  London: Longmans, Green, Reader, and Dyer, 1863.
+
+\bibitem{Crisp2006_HedonismReconsidered}
+R.~Crisp, ``Hedonism reconsidered,'' \emph{Philosophy and Phenomenological
+  Research}, vol.~73, no.~3, pp. 619--645, 2006.
+
 \end{thebibliography}
